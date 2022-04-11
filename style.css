@@ -1,5 +1,17 @@
 body {
-	background-color:#BC6DD7;
+	background-color:white;
+}
+
+
+.question {
+	size: 20vw;
+	display: block;
+}
+
+
+a {cursor: not-allowed;
+
+
 }
 
 .scale-me { 
@@ -7,10 +19,11 @@ body {
 	width:35vw;
 	padding: 5px;
 	margin: 10px;
-	border: 1px solid black;
+	border: 1px solid gray;
 	text-align: justify;
 	vertical-align: top;
 	font-size: 2vw;
+	background-color: lightgray;
 	
 }
 
@@ -23,9 +36,20 @@ li {
 
 h1 {
 	text-align: center;
-	border: 1px solid black;
+	
 	margin: -10px;
 	padding: 20px;
+	height: 38px;
+    vertical-align: bottom;
+    font-size: 50px;
+    padding-left: 10px;
+    line-height: 38px;
+    color: white;
+    
+    background-color: blue;
+    
+	font-family: 'Open Sans', sans-serif;
+
 	
 }
 
