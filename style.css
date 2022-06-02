@@ -1,7 +1,9 @@
 body {
 	background-color:white;
+
 }
 
+.mad {display: inline-block;}
 
 .question {
 	size: 20vw;
@@ -53,6 +55,17 @@ h1 {
 	
 }
 
+h2 {
+	text-align: center;
+	background-color: darkgray;
+	
+}
+
+h3 {
+	background-color:#303030;
+	margin-top: 0px ;
+}
+
 .table {
 	background-color:#BC6DD7;
 	border: 2px solid white;
@@ -87,3 +100,46 @@ h1 {
 .About {
 	
 }
+
+.button {
+	border: 1px solid blue;
+	background-color: blue;
+	color: white;
+	
+}
+
+#a1 {
+	margin-left: 40vw;
+}
+
+.button3 {
+	border: 1px solid gray;
+	background-color: #E6E6E6;
+	color: black;
+	
+	
+	
+
+	
+}
+
+#c1 {
+	margin-left: 0px;
+	display: ;
+	
+}
+
+.image {
+	margin-left: 50px;
+	margin-top: 30px;
+	margin-right: px;
+
+}
+
+.image2 {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: -105px;
+	margin-bottom: 0px;
+}
+

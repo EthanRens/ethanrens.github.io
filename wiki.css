@@ -1,0 +1,101 @@
+body {
+	display: inline-block
+}
+
+.sidebar { 
+	display:inline-block;
+	width:15vw;
+	padding: 5px;
+	padding-right: 15px;
+	margin: 10px;
+	border: 1px solid gray;
+	text-align: justify;
+	vertical-align: top;
+	font-size: .75em;
+	background-color: lightgray;
+	vertical-align: top;
+	
+}
+
+.main {
+	 
+	display:inline-block;
+	width:73vw;
+	padding: 5px;
+	margin-top: 10px;
+	margin-left: -5px;
+	border: 1px solid gray;
+	text-align: justify;
+	vertical-align: top;
+	font-size: .75em;
+	background-color: lightgray;
+	vertical-align: top;
+	
+}
+
+.drop {
+	border: 1px solid gray;
+	margin: 10px;
+	display:inline-block;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.sub1 {
+	display:inline-block;
+	width:50vw;
+	vertical-align: top;
+}
+
+.sub2 {
+	display:inline-block;
+	width: 170px;
+	vertical-align: top;
+	margin-left: 20px;
+	text-align: center;
+	border: 1px solid gray;
+	padding: -0px;
+	
+}
+
+.blue {
+	text-align: center;
+	color: #0645ad;
+	background-color: #cddeff;
+    font-weight: bold;
+	border-bottom: 1px solid grey;
+	
+	
+}
+
+.border {
+	
+	margin-top: 5px;
+	margin-bottom: -9px;
+	border-bottom: 1px solid grey;
+
+}
+
+.church {
+	margin-top: -5px;
+}
+
+.border2 {
+	border: 1px solid gray;
+}
+
+.tiny {
+	
+	border-collapse: collapse;
+    line-height: 1.2em;
+
+    background-color: #f8f9fa;
+    color: black;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    
+    
+    font-size: 58%;
+  
+    width: 22em;
+}
